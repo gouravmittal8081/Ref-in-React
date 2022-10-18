@@ -1,0 +1,5 @@
+Ref => class component me ham Ref ka use krte hai ,ise kam se kam Ref ko use krte hai,
+
+function component me Ref ko use krne ke liye ham kisi or tarike se use karte hai
+
+Basically Ref se ham kisi ko bhi HIDE,SHOW,color change kr sakte hai
